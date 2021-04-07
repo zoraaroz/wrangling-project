@@ -5,3 +5,5 @@ tokens.txt
 *.tsv
 *.png
 *.docx
+*.txt
+*.jpg
